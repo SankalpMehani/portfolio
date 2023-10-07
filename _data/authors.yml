@@ -2,32 +2,48 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Sankalp Mehani
+  email:             sankalpm@buffalo.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+
+    I am Sankalp Mehani, an aspiring Data Scientist with a flair for Back-end Development. I thrive at the intersection of data and technology, where innovation knows no bounds.
+
+
+    📊 Data Science Dynamo: Armed with a Master's in Data Science, I wield a formidable skill set in data analysis, machine learning, and deep learning. I've harnessed the power of Machine Learning to transform grayscale images into vibrant works of art, predict the end-season standings table for the current English Premier League season, among other works.
+
+
+    ⚒️ Tech Wizardry: As a Back-end Developer, I've architected applications for Apple TV and optimized REST APIs, resulting in significant boosts in user retention and efficiency. My prowess extends to high-performance database management, ensuring seamless scalability while maintaining rock-solid uptime.
+
+
+    🌎 Global Vision: My journey has taken me from Bhopal to Buffalo, and I've been fortunate to volunteer in Vietnam and lead impactful initiatives in India. I'm not just a technologist; I'm a global citizen committed to positive change.
+
+
+    🔥 Innovation Enthusiast: I'm passionate about pushing boundaries, whether it's enhancing security algorithms or creating immersive 3D games. I relish challenges and embrace opportunities for continuous growth.
+
+
+    ⚽🍿 Beyond Tech: Outside the tech realm, I'm a soccer fanatic, a cinephile, a photography enthusiast, and a dance aficionado. Life is a dynamic dance, and I aim to make every step count.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/img/blog/dp-circle.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+    # srcset:
+    #   1x:            /assets/img/blog/dp.jpg
+    #   2x:            /assets/img/blog/dp.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    email:             sankalpm@buffalo.edu
+    linkedin:          sankalpmehani
+    github:            SankalpMehani
+    kaggle:            sankalpmehani
+    download:          https://drive.google.com/uc?id=1C27sGoC-XPSkR0IUrInweDipWcEExAmx&export=download
+    # twitter:         <username>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -57,7 +73,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -65,6 +80,8 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
+
+a: <span>HELLO</span>
 
 # Another author (optional)
 author2:

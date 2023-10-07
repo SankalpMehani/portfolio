@@ -204,5 +204,9 @@ keybase:
   icon: icon-key
   prepend: "https://keybase.io/"
 download:
-  name: Download
+  name: Download Resume
   icon: icon-box-add
+# kaggle:
+#   name: Kaggle
+#   icon: kaggle.svg
+#   prepend: "https://kaggle.com/"

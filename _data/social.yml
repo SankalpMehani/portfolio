@@ -206,7 +206,7 @@ keybase:
 download:
   name: Download Resume
   icon: icon-box-add
-# kaggle:
-#   name: Kaggle
-#   icon: kaggle.svg
-#   prepend: "https://kaggle.com/"
+kaggle:
+  name: Kaggle
+  icon: icon-xing2
+  prepend: "https://kaggle.com/"

@@ -25,7 +25,7 @@ Each of these models was trained and evaluated to provide predictions for the EP
 
 
 ## Feature Heatmap
-![feature_heatmap](/assets/img/blog/pl_predictor_heatmap.png)
+![feature_heatmap](assets/img/blog/pl_predictor_heatmap.png)
 
 
 ## Model Comparison

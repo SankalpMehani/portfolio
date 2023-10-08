@@ -44,18 +44,18 @@ author:
   # Used by `jekyll-feed`:
   name:                Sankalp Mehani
   email:               sankalpm@buffalo.edu
-  picture:             /assets/img/blog/dp256.jpg
+  picture:             /assets/img/blog/dp-circle.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
+  - title:             About
+    url:               /about/
   - title:             Projects
-    url:               /example/
+    url:               /projects/
   - title:             Resume
     url:               /resume/
-  # - title:             About
-  #   url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -89,7 +89,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/blog/infinite-slowed.gif
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

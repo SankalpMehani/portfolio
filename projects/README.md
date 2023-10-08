@@ -11,7 +11,7 @@ permalink: /projects/
 
 ## <span style="color: #2596be"> [Premier League Predictor](pl_predictor) </span>
 
-[![EPL_logo](/assets/img/blog/pl_logo.png)](pl_predictor)
+[![EPL_logo](../assets/img/blog/pl_logo.png)](pl_predictor)
 
 
 [Github Link](https://github.com/SankalpMehani/premier_league_predictor)

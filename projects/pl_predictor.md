@@ -34,7 +34,7 @@ Each of these models was trained and evaluated to provide predictions for the EP
 
 ## Result
 
- <p align="center">
+<p align="center">
 <img src="/assets/img/pl_predictor_table.jpg" alt="predicted_table" width="350"/>
 </p>
 

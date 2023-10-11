@@ -28,11 +28,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/blog/dp-circle.png
+    path:            /assets/img/dp-circle.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # srcset:
-    #   1x:            /assets/img/blog/dp.jpg
-    #   2x:            /assets/img/blog/dp.jpg
+    #   1x:            /assets/img/dp.jpg
+    #   2x:            /assets/img/dp.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

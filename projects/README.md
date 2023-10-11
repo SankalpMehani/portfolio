@@ -8,21 +8,27 @@ sitemap: false
 permalink: /projects/
 ---
 
-
+<!-- Project 1 -->
+<!-- Name -->
 ## <span style="color: #2596be"> [Premier League Predictor](pl_predictor) </span>
 
-[![EPL_logo](../assets/img/blog/pl_logo.png)](pl_predictor)
+<!-- Thumbnail -->
+<!-- [![EPL_logo](../assets/img/pl_logo.png)](pl_predictor) -->
+<a href="pl_predictor"><img src="../assets/img/pl_logo.png" alt="EPL_logo" width="500"/></a>
 
-
+<!-- GitHub Link -->
 [Github Link](https://github.com/SankalpMehani/premier_league_predictor)
 
 
+<!-- Project 2 -->
+<!-- Name -->
+## <span style="color: #2596be"> [Image Colorization with DCGAN](image-colorization-with-dcgan) </span>
 
-## <span style="color: #2596be"> [Image Colorization with DCGAN](image-colorization-with-dcgan.md) </span>
+<!-- Thumbnail -->
+<!-- [![Image_Colorization_Thumbnail](../assets/img/image-colorizer-thumbnail.jpg)](image-colorization-with-dcgan) -->
+<a href="image-colorization-with-dcgan"><img src="../assets/img/image-colorizer-thumbnail.jpg" alt="Image_Colorization_Thumbnail" width="500"/></a>
 
-[![EPL_logo](../assets/img/blog/pl_logo.png)](pl_predictor)
-
-
+<!-- GitHub Link -->
 [Github Link](https://github.com/SankalpMehani/Image-Colorization-DCGAN)
 
 <!-- ## Using Hydejack
@@ -53,4 +59,4 @@ permalink: /projects/
 
 <!-- 
 [checkout]: pl_predictor.md
-[![EPL_logo](/assets/img/blog/pl_logo.png)]: pl_predictor -->
+[![EPL_logo](/assets/img/pl_logo.png)]: pl_predictor -->

@@ -25,17 +25,17 @@ Each of these models was trained and evaluated to provide predictions for the EP
 
 
 ## Feature Heatmap
-![feature_heatmap](../assets/img/blog/pl_predictor_heatmap.png)
+![feature_heatmap](../assets/img/pl_predictor_heatmap.png)
 
 
 ## Model Comparison
-![model_accuracy_barchart](/assets/img/blog/pl_predictor_barchart.png)
+![model_accuracy_barchart](/assets/img/pl_predictor_barchart.png)
 
 
 ## Result
 
  <p align="center">
-<img src="/assets/img/blog/pl_predictor_table.jpg" alt="predicted_table" width="350"/>
+<img src="/assets/img/pl_predictor_table.jpg" alt="predicted_table" width="350"/>
 </p>
 
 

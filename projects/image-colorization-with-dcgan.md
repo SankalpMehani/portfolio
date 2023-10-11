@@ -23,24 +23,52 @@ This project aims to develop a DCGAN model for automatic colorization of graysca
 
 ## Dataset
 
-We used the popular CIFAR-10 dataset, consisting of 50,000 RGB images for training and 10,000 for testing. These RGB images were converted to the LAB color space, with the L channel as the generator input and the AB channels as the discriminator target.
+I used the popular CIFAR-10 dataset, consisting of 50,000 RGB images for training and 10,000 for testing. These RGB images were converted to the LAB color space, with the L channel as the generator input and the AB channels as the discriminator target.
+
+<img src="/assets/img/dcgan-dataset.jpg" alt="Dataset" width="350"/>
+
 
 ## Architecture 1
 
 ### Generator and Discriminator
-Our DCGAN consists of two key components:
+The DCGAN consists of two key components:
 - Generator: Transforms grayscale images into colorized versions.
 - Discriminator: Distinguishes between real and generated color images.
 Both models were trained using the Adam optimizer with BCELoss as the loss criterion.
+
+<!-- <img src="/assets/img/dcgan-architecture-1-discriminator-loss.jpg" alt="Discriminator_Loss" width="350"/>
+
+<img src="/assets/img/dcgan-architecture-1-generator-loss.jpg" alt="Generator_Loss" width="350"/> -->
+
+
+Generator Loss            |  Discriminator Loss
+:-------------------------:|:-------------------------:
+![](/assets/img/dcgan-architecture-1-generator-loss.jpg)  |  ![](/assets/img/dcgan-architecture-1-discriminator-loss.jpg)
+
+<p align="center">
+<img src="/assets/img/dcgan-architecture-1-results.jpg" alt="Architecture 1 Result" width="400"/>
+</p>
+
 
 ## Architecture 2
 
 ### Generator and Discriminator
 This DCGAN variant features a Generator with 26 layers and a Discriminator with 17 layers. Training was conducted for 50 epochs.
 
+
+Generator Loss            |  Discriminator Loss
+:-------------------------:|:-------------------------:
+![](/assets/img/dcgan-architecture-2-generator-loss.jpg)  |  ![](/assets/img/dcgan-architecture-2-discriminator-loss.jpg)
+
+<p align="center">
+<img src="/assets/img/dcgan-architecture-2-results.jpg" alt="Architecture 1 Result" width="400"/>
+</p>
+
+
+
 ## Architecture 3
 
-We implemented an autoencoder with a modified U-Net architecture for image colorization.
+Implemented an autoencoder with a modified U-Net architecture for image colorization.
 
 ## Training
 
@@ -48,17 +76,17 @@ Training details for each architecture are provided in the report. Training time
 
 ## Results
 
-We evaluated the colorization performance of each architecture and included sample results in the report.
+Evaluated the colorization performance of each architecture and included sample results in the report.
 
 ## Project Management Tracker
 
-We used a project management tracker to keep track of our progress and tasks. A snapshot of the tracker is available in the report.
+Used a project management tracker to keep track of our progress and tasks. A snapshot of the tracker is available in the report.
 
 
 ## References
 
 Links to relevant articles, tutorials, and papers used for reference in the project.
 
-For more detailed information, refer to the full [project report](report/Deep_Learning_Final_Project_Report.pdf).
+For more detailed information, refer to the full [project report](https://github.com/SankalpMehani/portfolio/blob/main/projects/image-colorization-with-dcgan.md).
 
 Feel free to explore the code and experiment with different models for automatic image colorization!

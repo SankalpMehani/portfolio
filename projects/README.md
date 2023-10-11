@@ -17,6 +17,14 @@ permalink: /projects/
 [Github Link](https://github.com/SankalpMehani/premier_league_predictor)
 
 
+
+## <span style="color: #2596be"> [Image Colorization with DCGAN](image-colorization-with-dcgan.md) </span>
+
+[![EPL_logo](../assets/img/blog/pl_logo.png)](pl_predictor)
+
+
+[Github Link](https://github.com/SankalpMehani/Image-Colorization-DCGAN)
+
 <!-- ## Using Hydejack
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.

@@ -25,7 +25,7 @@ This project aims to develop a DCGAN model for automatic colorization of graysca
 
 I used the popular CIFAR-10 dataset, consisting of 50,000 RGB images for training and 10,000 for testing. These RGB images were converted to the LAB color space, with the L channel as the generator input and the AB channels as the discriminator target.
 
-<img src="../assets/img/dcgan-dataset.jpg" alt="Dataset" width="350"/>
+<img src="./assets/img/dcgan-dataset.jpg" alt="Dataset" width="350"/>
 
 
 ## Architecture 1
@@ -58,7 +58,7 @@ This DCGAN variant features a Generator with 26 layers and a Discriminator with 
 
 Generator Loss            |  Discriminator Loss
 :-------------------------:|:-------------------------:
-![](/assets/img/dcgan-architecture-2-generator-loss.jpg)  |  ![](/assets/img/dcgan-architecture-2-discriminator-loss.jpg)
+![](../assets/img/dcgan-architecture-2-generator-loss.jpg)  |  ![](../assets/img/dcgan-architecture-2-discriminator-loss.jpg)
 
 <p align="center">
 <img src="/assets/img/dcgan-architecture-2-results.jpg" alt="Architecture 1 Result" width="400"/>

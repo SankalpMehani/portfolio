@@ -25,7 +25,7 @@ This project aims to develop a DCGAN model for automatic colorization of graysca
 
 I used the popular CIFAR-10 dataset, consisting of 50,000 RGB images for training and 10,000 for testing. These RGB images were converted to the LAB color space, with the L channel as the generator input and the AB channels as the discriminator target.
 
-<img src="/assets/img/dcgan-dataset.jpg" alt="Dataset" width="350"/>
+<img src="../assets/img/dcgan-dataset.jpg" alt="Dataset" width="350"/>
 
 
 ## Architecture 1

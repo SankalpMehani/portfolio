@@ -43,7 +43,7 @@ Both models were trained using the Adam optimizer with BCELoss as the loss crite
 
 Generator Loss            |  Discriminator Loss
 :-------------------------:|:-------------------------:
-![](/assets/img/dcgan-architecture-1-generator-loss.jpg)  |  ![](/assets/img/dcgan-architecture-1-discriminator-loss.jpg)
+![](../assets/img/dcgan-architecture-1-generator-loss.jpg)  |  ![](../assets/img/dcgan-architecture-1-discriminator-loss.jpg)
 
 <p align="center">
 <img src="/assets/img/dcgan-architecture-1-results.jpg" alt="Architecture 1 Result" width="400"/>
@@ -87,6 +87,6 @@ Used a project management tracker to keep track of our progress and tasks. A sna
 
 Links to relevant articles, tutorials, and papers used for reference in the project.
 
-For more detailed information, refer to the full [project report](https://github.com/SankalpMehani/portfolio/blob/main/projects/image-colorization-with-dcgan.md).
+For more detailed information, refer to the full [project report](https://github.com/SankalpMehani/Image-Colorization-DCGAN/blob/main/README.md).
 
 Feel free to explore the code and experiment with different models for automatic image colorization!

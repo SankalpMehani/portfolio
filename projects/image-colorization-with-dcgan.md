@@ -44,7 +44,7 @@ Generator Loss            |  Discriminator Loss
 <!-- <p align="center">
 <img src="/assets/img/dcgan-architecture-1-results.jpg" alt="Architecture 1 Result" width="400"/>
 </p> -->
-![architecture-1-results](/assets/img/dcgan-architecture-1-results.jpg) 
+![architecture-1-results](../assets/img/dcgan-architecture-1-results.jpg) 
 
 ## Architecture 2
 

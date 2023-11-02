@@ -25,8 +25,8 @@ This project aims to develop a DCGAN model for automatic colorization of graysca
 
 I used the popular CIFAR-10 dataset, consisting of 50,000 RGB images for training and 10,000 for testing. These RGB images were converted to the LAB color space, with the L channel as the generator input and the AB channels as the discriminator target.
 
-<img src="/assets/img/dcgan-dataset.jpg" alt="Dataset" width="350"/>
-
+<!-- <img src="/assets/img/dcgan-dataset.jpg" alt="Dataset" width="350"/> -->
+![Dataset](../assets/img/dcgan-dataset.jpg)
 
 ## Architecture 1
 
@@ -36,19 +36,15 @@ The DCGAN consists of two key components:
 - Discriminator: Distinguishes between real and generated color images.
 Both models were trained using the Adam optimizer with BCELoss as the loss criterion.
 
-<!-- <img src="/assets/img/dcgan-architecture-1-discriminator-loss.jpg" alt="Discriminator_Loss" width="350"/>
-
-<img src="/assets/img/dcgan-architecture-1-generator-loss.jpg" alt="Generator_Loss" width="350"/> -->
-
 
 Generator Loss            |  Discriminator Loss
 :-------------------------:|:-------------------------:
-![](/assets/img/dcgan-architecture-1-generator-loss.jpg)  |  ![](/assets/img/dcgan-architecture-1-discriminator-loss.jpg)
+![](../assets/img/dcgan-architecture-1-generator-loss.jpg)  |  ![](../assets/img/dcgan-architecture-1-discriminator-loss.jpg)
 
-<p align="center">
+<!-- <p align="center">
 <img src="/assets/img/dcgan-architecture-1-results.jpg" alt="Architecture 1 Result" width="400"/>
-</p>
-
+</p> -->
+![architecture-1-results](../assets/img/dcgan-architecture-1-results.jpg) 
 
 ## Architecture 2
 
@@ -58,12 +54,12 @@ This DCGAN variant features a Generator with 26 layers and a Discriminator with 
 
 Generator Loss            |  Discriminator Loss
 :-------------------------:|:-------------------------:
-![](/assets/img/dcgan-architecture-2-generator-loss.jpg)  |  ![](/assets/img/dcgan-architecture-2-discriminator-loss.jpg)
+![architecture-2-generator-loss](../assets/img/dcgan-architecture-2-generator-loss.jpg)  |  ![architecture-2-discriminator-loss](../assets/img/dcgan-architecture-2-discriminator-loss.jpg)
 
-<p align="center">
+<!-- <p align="center">
 <img src="/assets/img/dcgan-architecture-2-results.jpg" alt="Architecture 1 Result" width="400"/>
-</p>
-
+</p> -->
+![architecture-2-results](../assets/img/dcgan-architecture-2-results.jpg) 
 
 
 ## Architecture 3
@@ -87,6 +83,6 @@ Used a project management tracker to keep track of our progress and tasks. A sna
 
 Links to relevant articles, tutorials, and papers used for reference in the project.
 
-For more detailed information, refer to the full [project report](https://github.com/SankalpMehani/portfolio/blob/main/projects/image-colorization-with-dcgan.md).
+For more detailed information, refer to the full [project report](https://github.com/SankalpMehani/Image-Colorization-DCGAN/blob/main/README.md).
 
 Feel free to explore the code and experiment with different models for automatic image colorization!

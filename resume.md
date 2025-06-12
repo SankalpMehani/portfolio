@@ -1,4 +1,4 @@
-[Download Resume](https://drive.google.com/uc?id=1C27sGoC-XPSkR0IUrInweDipWcEExAmx&export=download)
+[Download Resume](https://drive.google.com/uc?export=download&id=1X16sJGWx20q5PEuELrx-N02j0P24dFvd)
 
 # <span style="color: #2596be"> Sankalp Mehani </span>
 
@@ -14,7 +14,7 @@ line. It is intended to be used for contact details -->
 
 ## <span style="color: #2596be"> Experience </span>
 
-### <span>Software Engineer, University at Buffalo</span> <span style="margin-left: 35%;">Feb 2024 -- Present</span>
+### <span>Software Engineer, University at Buffalo</span> <span style="margin-left: 25%;">Feb 2024 -- Present</span>
 
  - Orchestrated the development of CANDO.py, an open-source platform for predictive bioanalytics, designed to analyze large-scale drug-protein-disease data and facilitate drug repurposing and discovery.
  - Engineered and streamlined data pipelines using numpy, pandas, and SQLAlchemy, reducing data processing time by 40% and enabling analysis of over 1 billion drug-protein interaction records.
@@ -56,12 +56,12 @@ line. It is intended to be used for contact details -->
 
 ## <span style="color: #2596be"> Education </span>
 
-### <span>University at Buffalo, Master of Science in Data Science</span> <span>Aug 2022 -- Dec 2023</span>
+### <span>University at Buffalo, Master of Science in Data Science</span> <span>Aug 2022 -- Feb 2024</span>
 
 **Relevant Coursework**: Intro to Machine Learning, Deep Learning, Statistical Learning, Algorithms: Analysis & Design
 
 
-### <span>Vellore Institute of Technology, Bachelor of Technology in Computer Science</span> <span>Jul 2016 -- May 2020</span>
+### <span>VIT University, Bachelor of Technology in Computer Science</span> <span>Jul 2016 -- May 2020</span>
 
 **Relevant Coursework**: Data Structures & Algorithms, Database Management Systems, Statistics, Artificial Intelligence
 
@@ -98,4 +98,4 @@ line. It is intended to be used for contact details -->
 
 <br>
 
-[Download Resume](https://drive.google.com/uc?id=1C27sGoC-XPSkR0IUrInweDipWcEExAmx&export=download)
+[Download Resume](https://drive.google.com/uc?export=download&id=1X16sJGWx20q5PEuELrx-N02j0P24dFvd)

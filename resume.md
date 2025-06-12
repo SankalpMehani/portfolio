@@ -1,4 +1,4 @@
-[Download Resume](https://drive.google.com/uc?export=download&id=1X16sJGWx20q5PEuELrx-N02j0P24dFvd)
+[Download Resume](https://drive.google.com/uc?export=download&id=1UN8w7KtecitwX8T2oArHrad661aPVa9j)
 
 # <span style="color: #2596be"> Sankalp Mehani </span>
 
@@ -21,7 +21,7 @@ line. It is intended to be used for contact details -->
  - Leveraged rdkit for molecular fingerprinting and similarity scoring, improving accuracy of drug-protein interaction predictions by 25% and aiding in identification of potential drug candidates.
  - Designed and implemented machine learning models, including Random Forest, SVM, and Logistic Regression, achieving a 24% increase in prediction accuracy for novel drug candidates across multiple diseases.
 
-### <span>Software Engineer, Apple</span> <span style="margin-left: 35%;">Sep 2020 -- Aug 2022</span>
+### <span>Software Engineer, Apple</span> <span style="margin-left: 38%;">Sep 2020 -- Aug 2022</span>
 
  - Architected [PortalPlus](https://portalplus.apple.com/) application for Apple TV by collaborating closely with Apple's design team, achieving a 30% boost in user retention and a 25% increase in satisfaction.
  - Led development of REST APIs in JavaScript/Node.js, optimizing SQL with Knex.js and streamlining CRUD operations with Bookshelf.js, resulting in 40% reduction in server response times.
@@ -98,4 +98,4 @@ line. It is intended to be used for contact details -->
 
 <br>
 
-[Download Resume](https://drive.google.com/uc?export=download&id=1X16sJGWx20q5PEuELrx-N02j0P24dFvd)
+[Download Resume](https://drive.google.com/uc?export=download&id=1UN8w7KtecitwX8T2oArHrad661aPVa9j)
